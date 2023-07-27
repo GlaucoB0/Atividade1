@@ -5,4 +5,5 @@ parseFloat(preco)
 let entrada = preco/2
 let dividi = entrada/12
 
-document.write(`Seu ${modelo} tem valor de entrada R$${entrada} dividindo o resto em R$${dividi}`)
+//
+document.write(`O valor do veiculo ${preco} tem valor de entrada R$${entrada} dividindo o resto em R$${dividi}`)
